@@ -1,0 +1,12 @@
+
+user.json
+node_modules/
+data/
+.env
+*.log
+*.sqlite
+*.pem
+.vscode
+.idea
+banda.json
+banda.schema.json
