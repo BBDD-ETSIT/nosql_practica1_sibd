@@ -306,7 +306,7 @@ describe("JSON Tests:", function () {
                                     type: "string"
                                 },
                                 "minLength": {
-                                    "const": 2
+                                    "const": 3
                                 },
                                 "maxLength": {
                                     "const": 50

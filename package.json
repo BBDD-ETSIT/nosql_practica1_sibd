@@ -1,6 +1,6 @@
 {
     "name": "nosql_practica1",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "autoCOREctor de la asignatura de BBDD (UPM)",
     "disableHashCheck": true,
     "keywords": [
