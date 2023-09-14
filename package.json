@@ -14,7 +14,7 @@
         "githubURL": "BBDD-ETSIT/nosql_practica1_sibd",
         "serverUrl": "https://aat.dit.upm.es/",
         "courseId": "903",
-        "assignmentId": "43881"
+        "assignmentId": "2003"
     },
     "dependencies": {
         "autocorector": "^3.1.4",
