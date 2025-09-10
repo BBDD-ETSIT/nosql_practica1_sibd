@@ -10,3 +10,6 @@ data/
 .idea
 banda.json
 banda.schema.json
+package-lock.json
+yarn.lock
+.DS_Store
