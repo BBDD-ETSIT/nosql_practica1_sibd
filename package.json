@@ -14,11 +14,11 @@
         "githubURL": "BBDD-ETSIT/nosql_practica1_sibd",
         "serverUrl": "https://aat.dit.upm.es/",
         "courseId": "903",
-        "assignmentId": "32163"
+        "assignmentId": "7767"
     },
     "dependencies": {
-        "autocorector": "^3.1.4",
-        "ajv": "^8.10.0",
-        "ajv-formats": "^2.1.1"
+        "autocorector": "^4.0.1",
+        "ajv": "^8.17.1",
+        "ajv-formats": "^3.0.1"
     }
 }
